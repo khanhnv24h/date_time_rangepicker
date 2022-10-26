@@ -1,4 +1,11 @@
-# sql_demo
+How to pick a date range in Flutter using the Date Range Picker .
+
+# The following adds the Cupertino Icons font to your application.
+# Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  intl: ^0.17.0
+
+### ✌&ensp;Preview
 
 A new Flutter project.
 
@@ -6,13 +13,13 @@ A new Flutter project.
 | :----------------------------------: 
 | <a href="https://youtu.be/RbTyC0ipCCI" target="_blank"><img src="./screenshort/fullscreen.gif" width="350"></a> 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📺&ensp;Watch Video
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### [YouTube video](https://youtu.be/RbTyC0ipCCI"Youtube Johannes Milke") where the *source code* is explained. [Subscribe YouTube channel.](https://www.youtube.com/c/DecorZone?sub_confirmation=1 "YouTube Subscribe Decor Zone")  
+<a href="https://youtu.be/RbTyC0ipCCI&feature=player_embedded
+" target="_blank"><img src="https://i.ytimg.com/an_webp/RbTyC0ipCCI/mqdefault_6s.webp?du=3000&sqp=CJSA45oG&rs=AOn4CLA2TXrOTYX-ILL7uSphjQyjlIC6oQ" 
+alt="Demo Date Range Picker 2022 | flutter tutorials" width="480" border="10" /></a>
+
+➜&ensp;[Watch My Video](https://youtu.be/RbTyC0ipCCI "Watch My Video")
