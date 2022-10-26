@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+|              App Preview             
+| :----------------------------------: 
+| <a href="https://youtu.be/RbTyC0ipCCI" target="_blank"><img src="./screenshort/fullscreen.gif" width="350"></a> 
 
 This project is a starting point for a Flutter application.
 
