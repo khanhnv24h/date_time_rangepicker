@@ -17,7 +17,7 @@ A new Flutter project.
 
 ### 📺&ensp;Watch Video
 
-##### [YouTube video](https://youtu.be/RbTyC0ipCCI"Youtube Johannes Milke") where the *source code* is explained. [Subscribe YouTube channel.](https://www.youtube.com/c/DecorZone?sub_confirmation=1 "YouTube Subscribe Decor Zone")  
+##### [YouTube video](https://youtu.be/RbTyC0ipCCI "Youtube Decor Zone") where the *source code* is explained. [Subscribe YouTube channel.](https://www.youtube.com/c/DecorZone?sub_confirmation=1 "YouTube Subscribe Decor Zone")  
 <a href="https://youtu.be/RbTyC0ipCCI&feature=player_embedded
 " target="_blank"><img src="https://i.ytimg.com/an_webp/RbTyC0ipCCI/mqdefault_6s.webp?du=3000&sqp=CJSA45oG&rs=AOn4CLA2TXrOTYX-ILL7uSphjQyjlIC6oQ" 
 alt="Demo Date Range Picker 2022 | flutter tutorials" width="480" border="10" /></a>
